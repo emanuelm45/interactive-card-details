@@ -27,4 +27,10 @@ export const GlobalStyle = createGlobalStyle`
     user-select: none;
     display: block;
   }
+
+  @media (min-width: 1440px) {
+    * {
+      font-size: 101%;
+    }
+  }
 `
