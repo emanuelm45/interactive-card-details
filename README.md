@@ -44,7 +44,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://www.frontendmentor.io/challenges/interactive-card-details-form-XpS8cKZDWw/hub
-- Live Site URL: https://react-interactive-card-details.vercel.app/
+- Live Site URL: https://interactive-card-details.vercel.app/
 
 ## My process
 
