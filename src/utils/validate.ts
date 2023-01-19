@@ -80,7 +80,7 @@ const cardSchema = yup
     cardNumber: yup
       .string()
       .required(ERROR_BLANK)
-      .length(19)
+      .length(19, 'Must be 16 characters long')
       .matches(/^[0-9\s]*$/, ERROR_FORMAT_NUMBERS)
       .default('0000 0000 0000 0000'),
     month: yup

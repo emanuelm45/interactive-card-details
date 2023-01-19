@@ -13,7 +13,6 @@ export const ContainerS = styled.div`
   @media (max-width: 1100px) {
     background: none;
     flex-direction: column;
-    min-height: 110vh;
     justify-content: flex-start;
     gap: 3rem;
   }
