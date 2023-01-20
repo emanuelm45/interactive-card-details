@@ -72,6 +72,11 @@ export const ContainerS = styled.div`
     letter-spacing: 3px;
   }
 
+  img {
+    box-shadow: 10px 1px 50px rgba(0, 0, 0, 0.3);
+    border-radius: 0.7rem;
+  }
+
   @media (max-width: 1100px) {
     align-items: center;
 
