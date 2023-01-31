@@ -27,18 +27,18 @@ Users should be able to:
 
 #### Desktop Layout
 
-![Desktop](https://github.com/emanuelm45/portfolio-images/blob/main/react-interactive-card-details/desktop.png)
+![Desktop](https://github.com/emanuelmarques45/portfolio-images/blob/main/react-interactive-card-details/desktop.png)
 
-![Desktop](https://github.com/emanuelm45/portfolio-images/blob/main/react-interactive-card-details/active-states.png)
+![Desktop](https://github.com/emanuelmarques45/portfolio-images/blob/main/react-interactive-card-details/active-states.png)
 
 #### Mobile Layout
 
 <p align="center">
-  <img src="https://github.com/emanuelm45/portfolio-images/blob/main/react-interactive-card-details/mobile.png" alt="Mobile">
+  <img src="https://github.com/emanuelmarques45/portfolio-images/blob/main/react-interactive-card-details/mobile.png" alt="Mobile">
 </p>
 
 <p align="center">
-  <img src="https://github.com/emanuelm45/portfolio-images/blob/main/react-interactive-card-details/mobile-completed.png" alt="Mobile">
+  <img src="https://github.com/emanuelmarques45/portfolio-images/blob/main/react-interactive-card-details/mobile-completed.png" alt="Mobile">
 </p>
 
 ### Links
